@@ -1,0 +1,40 @@
+.nav a{
+text-align: right;
+font-size: larger;
+color: rgb(100, 50, 200);
+padding-bottom: 100px;
+}
+
+#logo{
+    text-transform: capitalize;
+    font-size: larger;
+    font-weight: 100;
+    font-style: larger;
+    font-family: cursive;
+}
+.nav{
+    height: 100px;
+}
+.title{color: rgb(100, 50, 200);
+    font-size: larger;
+text-align: center;
+font-family: Georgia, 'Times New Roman', Times, serif;}
+.body{text-indent: 10px;
+text-align: justify;}
+
+h3{text-transform: capitalize;
+   font-family: cursive;
+    color: rgb(30, 50, 100);
+}
+
+footer{
+    height: 120px;
+    background-color: rgb(100, 50, 200);
+    text-overflow: unset;
+    text-align: justify;
+
+    
+}
+
+.nav img{height: 100px;
+width: 600px;}
